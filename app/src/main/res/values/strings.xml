@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AuctionCatalogueScrollView</string>
+
+    <string name ="lotNumberTextView"> Lot # </string>
+
+
+</resources>
